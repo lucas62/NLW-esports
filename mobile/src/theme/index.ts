@@ -1,3 +1,5 @@
+/* A theme file that is used to store all the colors, fonts, and font sizes used in
+the app. */
 export const THEME = {
   COLORS: {
     BACKGROUND_900: '#121214',

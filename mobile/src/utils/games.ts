@@ -1,3 +1,4 @@
+/* Creating a constant called GAMES and assigning it to an array of objects. */
 export const GAMES = [
   {
     id: '1',
