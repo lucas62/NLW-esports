@@ -2,6 +2,7 @@ import { Text, View, ViewProps } from 'react-native';
 
 import { styles } from './styles';
 
+/* Defining the props that the component will take in. */
 interface Props extends ViewProps {
     title: string;
     subtitle: string;
